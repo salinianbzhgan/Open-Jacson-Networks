@@ -1,3 +1,6 @@
+# NAME:SALINI A
+# REG:212223220091
+
 # Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
